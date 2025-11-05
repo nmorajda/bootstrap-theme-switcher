@@ -22,9 +22,9 @@ bootstrap-theme-switcher/
 
 ## How to run locally
 
-1. Clone the repository:
-[git clone https://github.com/abmstudio/bootstrap-theme-switcher.git](git clone https://github.com/abmstudio/bootstrap-theme-switcher.git)
-2. Navigate to the project directory:
+1. Clone the repository:  
+`git clone https://github.com/abmstudio/bootstrap-theme-switcher.git`
+2. Navigate to the project directory:  
 `cd bootstrap-theme-switcher`
 3. Open index.html in your browser.
 
